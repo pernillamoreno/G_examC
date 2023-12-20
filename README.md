@@ -1,4 +1,4 @@
-# examC
+# examC 26/11
  Write a C program to do some operations on this matrix:
  * 1. Make a function to fill the matrix with random even, unique numbers, in the range of min and max.
  * 2. Make a function to print the matrix to the terminal.
